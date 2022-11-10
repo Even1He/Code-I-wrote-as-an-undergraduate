@@ -1,6 +1,5 @@
-# Code-I-wrote-as-an-undergraduate
+#//选择排序————实现数组部分元素排序//
 
-For 100,000 lines of code
 ```
 #include<iostream>
 using namespace std;
