@@ -1,5 +1,7 @@
 # Code-I-wrote-as-an-undergraduate
+
 For 100,000 lines of code
+```
 #include<iostream>
 using namespace std;
 void sort(int a[],int l,int r,int n);
@@ -41,3 +43,4 @@ void sort(int a[],int l,int r,int n)
           cout<<a[i]<<' ';
       }
 }
+```
